@@ -1,3 +1,0 @@
-[submodule "system/Arduino-PY32F0xx-Drivers"]
-	path = system/Arduino-PY32F0xx-Drivers
-	url = https://github.com/py32duino/Arduino-PY32F0xx-Drivers.git

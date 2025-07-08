@@ -1,0 +1,5 @@
+Nombre del archivo comprimido: PenguinDuino_devlab_version_2025-07-08.tar.bz2
+Datos del archivo comprimido:
+Tamaño del archivo: 1996560 bytes
+Tipo de archivo: bz2
+SHA256 del archivo: fa232b89c26e7470ce997984f079cdf4e942fbc37a1ff190bc9ecaff1751f0d8
