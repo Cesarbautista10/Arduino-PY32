@@ -23,8 +23,9 @@ _estack = ORIGIN(RAM) + LENGTH(RAM);    /* end of RAM */
   Generate a link error if heap and stack don't fit into RAM.
   These numbers affect the USED size of RAM
 */
-_Min_Heap_Size = 0x200;   /* required amount of heap: 512 bytes */
-_Min_Stack_Size = 0x300;  /* required amount of stack: 768 bytes */
+_Min_Heap_Size = 0x100;   /* 256 B heap */
+_Min_Stack_Size = 0x200;  /* 512 B stack */
+
 
 /* Specify the memory areas */
 MEMORY
