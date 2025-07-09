@@ -19,8 +19,8 @@
           },
 "url": "https://github.com/Cesarbautista10/Arduino-PY32/releases/download/0.1.4/PenguinDuino.zip",
 "archiveFileName": "PenguinDuino.zip",
-"checksum": "SHA-256:40b8ec0f6ae6d083fa1c018587dbd4edf878998205588bffa89b979f541cb6d1",
-"size": "3797247",
+"checksum": "SHA-256:EB113B7095C55F0FAFC18194F0F7C9988E19BC073780297469925D6A1C2BC01",
+"size": "3694182",
 
           "boards": [
             { "name": "PY32F003 Mini Dev" },
