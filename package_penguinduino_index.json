@@ -19,7 +19,7 @@
           },
 "url": "https://github.com/Cesarbautista10/Arduino-PY32/releases/download/0.1.4/PenguinDuino.zip",
 "archiveFileName": "PenguinDuino.zip",
-"checksum": "SHA-256:EB113B7095C55F0FAFC18194F0F7C9988E19BC073780297469925D6A1C2BC01",
+"checksum": "sha256:eb113b7095c55f0fafc18194f0f7c9988e19bc073780297469925d6a1c2bc01b",
 "size": "3694182",
 
           "boards": [
